@@ -6,3 +6,6 @@ PhySim2 includes dynamical simulations of Double Pendulum, Triple Pendulum, Butt
 Integration Methods: Semi-Implicit Euler (Triple Pendulum, Butterfly Effect), Verlet Integration (Elliptical Billiards, Tearable Cloth), Classic Runge-Kutta / RK4 (Double Pendulum).
 
 SFML installation required prior to compilation of the simulator.
+
+# Screen-Recording
+https://github.com/user-attachments/assets/c339f7df-87a4-4180-bab0-4ebead4d4012
